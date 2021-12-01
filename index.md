@@ -2,8 +2,8 @@
 layout: home
 # Index page
 ---
-<br><br><br><br>
-<p style="font-size:30px">Game Overview</p>
+<br><br>
+<p style="font-size:35px"><b>Game Overview</b></p>
 <ul style="font-size:20px">
   <li>One player vs. two enemies.Enemy re-spawns upon death.  </li>
   <li>Actions: W,A,S,D.</li>
